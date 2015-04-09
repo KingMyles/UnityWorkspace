@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1333]
+    Renderer: AMD Radeon HD 6670
+    Vendor:   ATI
+    VRAM:     1008 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Andrew M\Documents\Space_shooter\Builds\Space Dementia_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.359760 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 0.792280 ms (FindLiveObjects: 0.015760 ms CreateObjectMapping: 0.014520 ms MarkObjects: 0.131120 ms  DeleteObjects: 0.004480 ms)
+
+UnloadTime: 0.374440 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 0.736760 ms (FindLiveObjects: 0.014240 ms CreateObjectMapping: 0.015920 ms MarkObjects: 0.126840 ms  DeleteObjects: 0.004520 ms)
+
