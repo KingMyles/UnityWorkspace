@@ -9,13 +9,13 @@ public class Boundary
 
 public class PlayerController : MonoBehaviour
 {
-	public float speed;
+	public static float speed = 10;
 	public float tilt;
 	public Boundary boundary;
 
 	public GameObject shot;
 	public Transform shotSpawn;
-	public float fireRate;
+	public static float fireRate = .5f;
 
 	private float nextFire;
 
